@@ -44,7 +44,7 @@ const Footer = () => {
                 className="text-muted-foreground transition-colors hover:text-primary"
                 aria-label="GitHub"
               >
-                <GitHub className="h-5 w-5" />
+                <Github className="h-5 w-5" />
               </a>
             </div>
           </div>
